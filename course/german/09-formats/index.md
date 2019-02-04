@@ -235,7 +235,7 @@ CSV stellt das einfachste Format dar, das weiterhin eine breite Wiederverwendung
 
 The content of this page, including all text, images and markup, is licensed under the [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).
 
-The content is based on module 9 ("Choosing the right format for open data") of the eLearning course on Open Data published by the [European Commission](https://ec.europa.eu/commission/index_en), and equally licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/). 
+The content is based on the German translation of module 9 (["Wie wählt man das richtige Format für Open Data"](https://www.europeandataportal.eu/elearning/de/module9)) of the eLearning course on Open Data published by the [European Commission](https://ec.europa.eu/commission/index_en), and equally licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).
 
 Date copied was 2019-02-04.
 
