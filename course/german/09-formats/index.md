@@ -48,7 +48,7 @@ Für einige Datenherausgeber, selbst für Mitarbeiter der Herausgeber-Organisati
 Open Data als einfacher Weg für Mitarbeiter einer Organisation auf Informationen zuzugreifen bietet viele Vorteile:
 
 - Es erhöht das Wissen über Open Data innerhalb des Teams.
-- Es erhöht die Nachhaltigkeit und das Vertrauen in die Daten, indem offene Daten zu Schlüsselelemente innerhalb der Organisation werden.
+- Es erhöht die Nachhaltigkeit und das Vertrauen in die Daten, indem offene Daten zu Schlüsselelementen innerhalb der Organisation werden.
 - Es schafft klare Möglichkeiten für Innovationen.
 
 ### Zugriff
