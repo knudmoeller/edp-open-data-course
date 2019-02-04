@@ -1,3 +1,11 @@
+**This file started as a copy of the German translation of module 9 (["Wie wählt man das richtige Format für Open Data"](https://www.europeandataportal.eu/elearning/de/module9)) of the eLearning course on Open Data published by the [European Commission](https://ec.europa.eu/commission/index_en).**
+
+**The original version has been tagged: [module-09-german-initial](https://github.com/knudmoeller/edp-open-data-course/blob/module-09-german-initial/course/german/09-formats/index.md).**
+
+**To see the changes made, use the [compare function](https://github.com/knudmoeller/edp-open-data-course/compare/module-09-german-initial...master#diff-2f6bad7a03db5794a5b2fcfd73826fe7).**
+
+<hr/>
+
 # Wie wählt man das richtige Format für Open Data?
 
 ![EU Open Data Logo](../../../images/eu-open-data.png "EU Open Data Logo")
