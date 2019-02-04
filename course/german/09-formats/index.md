@@ -1,22 +1,22 @@
-# Wie wählt man das richtige Format für Open Data
+# Wie wählt man das richtige Format für Open Data?
 
 ![EU Open Data Logo](../../../images/eu-open-data.png "EU Open Data Logo")
 
 Das Format eines offenen Datensatzes bezieht sich auf die Art und Weise, wie die Daten strukturiert und für Mensch und Maschine verfügbar gemacht werden.
 
-Das richtige Format wählen stellt sicher that Daten einfach verwaltet und wiederverwendet werden können.
-Um die Wiederverwendbarkeit von Daten zu maximieren und den Bedürfnissen der Nutzer gerecht zu werden, kann es für einen Datenherausgeber erforderlich sind, die Formaten und Strukturen zu verwenden, die als meistverbreitete gelten.
+Das richtige Format wählen stellt sicher, dass Daten einfach verwaltet und wiederverwendet werden können.
+Um die Wiederverwendbarkeit von Daten zu maximieren und den Bedürfnissen der Nutzer gerecht zu werden, kann es für einen Datenherausgeber erforderlich sein, die Formate und Strukturen zu verwenden, die als meistverbreitete gelten.
 
 **In diesem Modul werden wir folgende Aspekte untersuchen:**
 
-- Warum sind Datenformate wichtig
-- Wie kann man die richtige Datenstruktur für Open Data wählen
-- Wie wählt man das richtige Format für Open Data
-- Warum soll man mit dem CSV-Format arbeiten
+- Warum sind Datenformate wichtig?
+- Wie kann man die richtige Datenstruktur für Open Data wählen=
+- Wie wählt man das richtige Format für Open Data?
+- Warum soll man mit dem CSV-Format arbeiten?
 
 ## Open Data Formate
 
-ODI-Trainer David Tarrant erklärt, warum Formate bei der Veröffentlichung von Daten wichtig sind, wie man die richtige Struktur und Formate wählt und warum das CSV-Format ein guter Ausgangspunkt für die meisten tabellarischen Daten ist.
+ODI-Trainer David Tarrant erklärt, warum Formate bei der Veröffentlichung von Daten wichtig sind, wie man die richtige Struktur und richtige Formate wählt und warum das CSV-Format ein guter Ausgangspunkt für die meisten tabellarischen Daten ist.
 
 **Um Untertitel ein- und auszuschalten, klicken Sie auf die Schaltfläche "cc" unten rechts im Video**
 
@@ -25,7 +25,7 @@ ODI-Trainer David Tarrant erklärt, warum Formate bei der Veröffentlichung von 
 ## Verwendbarkeit, Verwaltung und Zugriff
 
 Offene Daten müssen von jedermann ohne Einschränkung genutzt, weiterverbreitet und weiterverwendet werden dürfen.
-In diesem Abschnitt betrachten wir welche Formate die Verwendbarkeit der Daten, den einfachen Zugang für die Benutzer und die einfache Verwaltung durch den Datenherausgeber maximieren.
+In diesem Abschnitt betrachten wir, welche Formate die Verwendbarkeit der Daten, den einfachen Zugang für die Benutzer und die einfache Verwaltung durch den Datenherausgeber maximieren.
 
 **Klicken Sie auf den Vorwärtspfeil um mehr zu erfahren**
   
@@ -34,21 +34,21 @@ In diesem Abschnitt betrachten wir welche Formate die Verwendbarkeit der Daten, 
 ![Verwendbarkeit](../../../images/module-09/odi-001.jpg "Verwendbarkeit")
 
 Das beste Format für Daten ist wahrscheinlich das Format, in dem der Datensatz erstellt wurde.
-In vielen Fällen kann dieses Fomat nur mit einem proprietären Softwareprogramm wie Microsoft Excel gelesen werden können.
+In vielen Fällen kann dieses Fomat nur mit einem proprietären Softwareprogramm wie Microsoft Excel gelesen werden.
 Während solche Programme oft die Möglichkeit bieten, Daten in andere Formate zu exportieren, kann eine geringe Verbreitung solcher Softwareprogramme die Wiederverwendbarkeit der Daten durch andere hindern.
 
-Softwareprogramme wie Excel enthalten auch umfangreichere Funktionen, z. B. das Formatieren von Tabellen und Grafken.
+Softwareprogramme wie Excel enthalten auch umfangreichere Funktionen, z. B. das Formatieren von Tabellen und Grafiken.
 Diese können dem Nutzer helfen, die Daten einfacher zu verstehen.
 
 ### Management
 
 ![Management](../../../images/module-09/odi-002.jpg "Management")
 
-Für einige Datenherausgeber, selbst für Mitarbeiter der Herausgeber-Organisationen sind offene Daten zum Hauptteil ihrer eigenen Prozesse geworden.
+Für einige Datenherausgeber, selbst für Mitarbeiter der Herausgeber-Organisationen, sind offene Daten zum Hauptteil ihrer eigenen Prozesse geworden.
 Open Data als einfacher Weg für Mitarbeiter einer Organisation auf Informationen zuzugreifen bietet viele Vorteile:
 
-- Es erhöht das Wissen über Open Data innerhalb des Teams
-- Es erhöht die Nachhaltigkeit und das Vertrauen in die Daten, indem offene Daten zu Schlüsselelement innerhalb der Organisation werden.
+- Es erhöht das Wissen über Open Data innerhalb des Teams.
+- Es erhöht die Nachhaltigkeit und das Vertrauen in die Daten, indem offene Daten zu Schlüsselelemente innerhalb der Organisation werden.
 - Es schafft klare Möglichkeiten für Innovationen.
 
 ### Zugriff
@@ -68,7 +68,7 @@ Aus diesem Grund wird die Zugänglichkeit oft dadurch erreicht, dass die Daten i
 
 ## Weitverbreitete Datenstrukturen
 
-Nicht alle Daten lassen sich in einer tabellarischen Struktur darstelle.
+Nicht alle Daten lassen sich in einer tabellarischen Struktur darstellen.
 Unterschiedliche Datenstrukturen müssen ggfs. berücksichtigt werden.
 Es gibt drei wichtige Strukturen für Daten: Tabellendaten, Baum- und Netzstrukturen.
 
@@ -95,9 +95,9 @@ Ein Beispiel dafür ist diese JSON-Datei auf json.org.
 
 [Hier geht’s zum json.org](http://json.org/example.html)
 
-### Netzwerktrukturen
+### Netzwerkstrukturen
 
-![Netzwerktrukturen](../../../images/module-09/odi-006.jpg "Netzwerktrukturen")
+![Netzwerkstrukturen](../../../images/module-09/odi-006.jpg "Netzwerkstrukturen")
 
 Daten, die als Netzstruktur strukturiert sind, ermöglichen die Abbildung von Beziehungen zwischen beliebigen Kombinationen von Elementen in beliebiger Richtung.
 
@@ -127,8 +127,7 @@ Weitere Aspekte sollten bei der Verwaltung von Millionen von Datenzeilen in Betr
 
 - Sollten die Daten in kleinere Datensätze aufgeteilt werden?
 - Wie oft sollten die Daten aktualisiert werden?
-- Wie wirken sich Änderungen hinsichtlich der Art der Veröffentlichung auf - die vorherigen Datensatzversionen aus?
-
+- Wie wirken sich Änderungen hinsichtlich der Art der Veröffentlichung auf die vorherigen Datensatzversionen aus?
 
 ### Live-Daten und Datenfeeds
 
@@ -156,7 +155,7 @@ CSV ist perfekt für Tabellendaten und kann in Anwendungen wie Excel geladen und
 Dies macht die Daten für den Benutzer einfach zugänglich.
 CSV stellt das einfachste Format dar, das weiterhin eine breite Wiederverwendung von Open Data unterstützt.
 Mit anderen Worten, CSV ist 'der kleinste gemeinsame Nenner' für Open Data.
-Open Data sollten, wann immer möglich, in diesem Format zur Verfügung gestellt werden.
+Open Data sollte, wann immer möglich, in diesem Format zur Verfügung gestellt werden.
 
 ## Das richtige Format für Geodaten
 
@@ -170,11 +169,10 @@ Bei der Veröffentlichung von Geodaten sollten Formate wie [geoJSON](https://en.
 
 Diese Formate sind speziell auf die Verwendbarkeit ausgelegt und können problemlos mit speziellen Mapping-Tools wie [Open Street Map](http://www.openstreetmap.org/) und [CartoDB](https://cartodb.com/) importiert und exportiert werden.
 
-Geospatial data
-
 ## Nutzen Sie die richtigen Formate?
 
-Testen Sie Ihr Wissen über Open Data Formate mit unseren Fragen. Können Sie sich an die wichtigen Punkte erinnern?
+Testen Sie Ihr Wissen über Open Data Formate mit unseren Fragen.
+Können Sie sich an die wichtigen Punkte erinnern?
 
 ### Wie wählt man das richtige Format für Open Data
 
@@ -222,10 +220,9 @@ Absenden
 
 ![Summary icon clipboard](../../../images/summary-icon.png "Summary icon clipboard")
 
+Das Format eines Datensatzes bezieht sich auf die Art und Weise, in der der Datensatz strukturiert und für Menschen und Maschinen bereitgestellt ist.
 
-Das Format eines Datensatzes bezieht sich auf die Art und Weise in der der Datensatz strukturiert und für Menschen und Maschinen bereitgestellt ist.
-
-Das richtige Format wählen stellt sicher that Daten einfach verwaltet und wiederverwendet werden können.
+Das richtige Format zu wählen stellt sicher, dass Daten einfach verwaltet und wiederverwendet werden können.
 Um die Wiederverwendbarkeit von Daten zu maximieren und den Bedürfnissen der Nutzer gerecht zu werden, kann es für einen Datenherausgeber erforderlich sind, die Formaten und Strukturen zu verwenden, die als meistverbreitete gelten.
 
 CSV sollte als die erste Option gewählt werden, um Daten bereitzustellen.
