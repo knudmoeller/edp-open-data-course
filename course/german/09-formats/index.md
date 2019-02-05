@@ -120,8 +120,6 @@ Nicht alle Daten sind zum Herunterladen geeignet, weil sie entweder zu groß, zu
 Einige Daten müssen möglicherweise in kleinere Dateien aufgeteilt werden.
 Andere Daten müssen möglicherweise als Live-Feeds veröffentlicht werden, um sicherzustellen, dass sie auf dem neuesten Stand sind.
 
-Klicken Sie auf die jeweiligen Überschriften, um mehr zu erfahren
-
 ### Offene Daten, die heruntergeladen werden können
 
 Tabellarische Daten eignen sich am besten zum Herunterladen.
