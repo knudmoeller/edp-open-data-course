@@ -26,16 +26,12 @@ Um die Wiederverwendbarkeit von Daten zu maximieren und den Bedürfnissen der Nu
 
 ODI-Trainer David Tarrant erklärt, warum Formate bei der Veröffentlichung von Daten wichtig sind, wie man die richtige Struktur und richtige Formate wählt und warum das CSV-Format ein guter Ausgangspunkt für die meisten tabellarischen Daten ist.
 
-**Um Untertitel ein- und auszuschalten, klicken Sie auf die Schaltfläche "cc" unten rechts im Video**
-
 [![Interview with Dave Tarrant on Open Data Formats](../../../images/video-still-module-09.png)](https://vimeo.com/266450771)
 
 ## Verwendbarkeit, Verwaltung und Zugriff
  
 Offene Daten müssen von jedermann ohne Einschränkung genutzt, weiterverbreitet und weiterverwendet werden dürfen.
 In diesem Abschnitt betrachten wir, welche Formate die Verwendbarkeit der Daten, den einfachen Zugang für die Benutzer und die einfache Verwaltung durch den Datenherausgeber maximieren.
-
-**Klicken Sie auf den Vorwärtspfeil um mehr zu erfahren**
   
 ### Verwendbarkeit
 
@@ -80,8 +76,6 @@ Aus diesem Grund wird die Zugänglichkeit oft dadurch erreicht, dass die Daten i
 Nicht alle Daten lassen sich in einer tabellarischen Struktur darstellen.
 Unterschiedliche Datenstrukturen müssen ggfs. berücksichtigt werden.
 Es gibt drei wichtige Strukturen für Daten: Tabellen, Baum- und Netzstrukturen.
-
-**Klicken Sie auf den Vorwärtspfeil um mehr zu erfahren.**
 
 ### Tabellen
 
@@ -195,8 +189,6 @@ Das richtige Format ist wichtig, denn es hilft:
 - sicherzustellen, dass die Privatsphäre geschützt ist
 - die Verwendbarkeit, Nutzlichkeit, Pflege und den Zugriff sicherzustellen
 
-Absenden
-
 ### Welche Datenstruktur würden Sie für die Daten hier im Bild nutzen?
 
 ![Structure](../../../images/module-09/odi-9-1.png "Structure")
@@ -209,8 +201,6 @@ Welche Datenstruktur würden Sie für die Daten hier im Bild nutzen?
 - Baumstrukturen
 - Netzwerkstrukturen
 
-Absenden
-
 ### In welchem Format sollen idealerweise offene Daten bereitgestellt werden?
 
 ![Format image](../../../images/module-09/odi-010.jpg "Format image")
@@ -222,8 +212,6 @@ In welchem Format sollen idealerweise offene Daten bereitgestellt werden?
 - DOC
 - PDF
 - CSV
-
-Absenden
 
 ## Open Data Formate
 
