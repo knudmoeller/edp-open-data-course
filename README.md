@@ -10,7 +10,7 @@ The first commit of a module is always the original content, including all error
 
 [![Logo of the Creative Commons Attribution-ShareAlike License](images/cc-by-sa-88x31.png "CC-BY-SA Logo")](https://creativecommons.org/licenses/by-sa/4.0/)
 
-The original "European Data Portal e-learning" was published by the [European Commission](https://ec.europa.eu/commission/index_en) and the [Open Data Institute](https://theodi.org/), and equally licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).
+The original "European Data Portal e-learning" was published by the [European Commission](https://ec.europa.eu/commission/index_en) and the [Open Data Institute](https://theodi.org/), and licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).
 
 All changes and new content contained in this repository are also published under [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).
 
