@@ -2,7 +2,7 @@
 
 The content of this repository is based on the [European Data Portal e-learning programme on Open Data](https://www.europeandataportal.eu/elearning/en/#/id/co-01). The EDP's eLearning course is a fantastic learning resource for everyone wanting to learn about Open Data.
 
-However, I was unhappy with the German translation, which is riddled with spelling and grammar mistakes, untranslated bits, duplicate sentences, etc. The course is published under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), but not available as open source (I asksed). This means there is no way for me to submit a pull request with proposed corrections. I have therefore decided to re-publish the text and images of the course as markdown in this repository. Certain aspects of the course (layout, design, interactive quizzes, etc.) could not be replicated.
+However, I was unhappy with the German translation, which is riddled with spelling and grammar mistakes, untranslated bits, duplicate sentences, etc. The course is published under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), but not available as open source (I asked). This means there is no way for me to submit a pull request with proposed corrections. I have therefore decided to re-publish the text and images of the course as markdown in this repository. Certain aspects of the course (layout, design, interactive quizzes, etc.) could not be replicated.
 
 The first commit of a module is always the original content, including all errors. By comparing that commit with the following commits containing corrections, it is possible to see what exactly was changed.
 
