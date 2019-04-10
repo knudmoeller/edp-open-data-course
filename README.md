@@ -6,6 +6,11 @@ However, I was unhappy with the German translation, which is riddled with spelli
 
 The first commit of a module is always the original content, including all errors. By comparing that commit with the following commits containing corrections, it is possible to see what exactly was changed.
 
+## Chapters
+
+- Chapter 9 (Formats):
+  - [German translation](course/german/09-formats/index.md)
+
 <hr/>
 
 [![Logo of the Creative Commons Attribution-ShareAlike License](images/cc-by-sa-88x31.png "CC-BY-SA Logo")](https://creativecommons.org/licenses/by-sa/4.0/)
